@@ -1,6 +1,6 @@
 # Master Thesis: Wifisim Extension
 
-##ABSTRACT
+## ABSTRACT
 
 Since some years wireless communications seem to be at the order of the day, both as homes as in offices, college campuses or larger scale networks. Wireless networks have been imposed over conventional networks due to advantages such as low cost, easy installation, high mobility and network reach. This ultimately results in higher operating comfort for network users.
 
